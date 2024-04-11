@@ -12,7 +12,7 @@ La función Choosefiler utiliza una API para seleccionar un archivo y luego copi
 
 La sección Config contiene operaciones CRUD (Crear, Leer, Actualizar, Eliminar) relacionadas con la base de datos SQLITE. Permite editar, eliminar y actualizar registros de manera eficiente.
 
-![Config](https://github.com/k-tw0/BaseAppAndroid/blob/master/Screenshot_2024-04-11-17-20-25-16_32ed36cca06f6904924e49fea8487620.jpg)
+![Config](https://github.com/k-tw0/BaseAppAndroid/blob/master/Screenshot_2024-04-11-17-20-27-31_32ed36cca06f6904924e49fea8487620.jpg)
 
 ## List
 

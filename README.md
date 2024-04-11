@@ -18,4 +18,4 @@ La sección Config contiene operaciones CRUD (Crear, Leer, Actualizar, Eliminar)
 
 La sección List muestra el listado de elementos recuperados de la base de datos, ofreciendo una visualización clara y ordenada para el usuario.
 
-![List](https://github.com/k-tw0/BaseAppAndroid/blob/master/Screenshot_2024-04-11-17-20-25-16_32ed36cca06f6904924e49fea8487620.jpg)
+![List](https://github.com/k-tw0/BaseAppAndroid/blob/master/Screenshot_2024-04-11-17-20-29-20_32ed36cca06f6904924e49fea8487620.jpg)
